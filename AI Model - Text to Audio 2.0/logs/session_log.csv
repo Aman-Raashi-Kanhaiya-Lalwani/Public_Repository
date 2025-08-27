@@ -1,3 +1,2 @@
 ID,Language,InputSource,Timestamp,TextFilePath,AudioFilePath,Speed,GainDB,PitchSemitones,CenterHz,WavelengthM,Q
-000001,English,typed,2025-08-25T06:43:18.580836,Textual Data\English\000001.txt,Audio\English\000001.wav,1,12,12,3000.0,0.11433,1
-000002,English,typed,2025-08-25T06:43:53.949708,Textual Data\English\000002.txt,Audio\English\000002.wav,1,-2,5,3000.0,0.11433,1
+000001,English,typed,2025-08-24T05:35:59.394950,Textual Data\English\000001.txt,Audio\English\000001.wav,1,-2,5,3000.0,0.11433,1
